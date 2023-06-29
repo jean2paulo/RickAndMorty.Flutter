@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "8ee7e0ced45dd210696cb4d4b59eed6e16a3676e2038de2df01eb63e0e0f0da3"
+build_start_time: [1687715372, 305077075]
+build_end_time: [1687715372, 494230985]
+inputs:
+  ? "/usr/local/Caskroom/flutter/3.3.5/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-3.0.5/macos/Classes/UrlLauncherPlugin.swift"
+  : !private [1687566197, 518479824]
+  ? "/usr/local/Caskroom/flutter/3.3.5/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-3.0.5/macos/Classes/messages.g.swift"
+  : !private [1687566197, 520097255]

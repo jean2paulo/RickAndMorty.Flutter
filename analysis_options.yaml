@@ -1,0 +1,19 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  # https://dart-lang.github.io/linter/lints/index.html.
+  rules:
+  - sort_constructors_first
+  - prefer_single_quotes
+  - camel_case_types
+  - library_names
+  - avoid_empty_else
+  - unnecessary_brace_in_string_interps
+  - avoid_redundant_argument_values
+  - leading_newlines_in_multiline_strings
+  - camel_case_extensions
+  - constant_identifier_names
+  - directives_ordering
+  - lines_longer_than_80_chars
+  - curly_braces_in_flow_control_structures
+  - slash_for_doc_comments
